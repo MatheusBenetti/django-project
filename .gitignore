@@ -135,4 +135,5 @@ GitHub.sublime-settings
 !.vscode/launch.json
 !.vscode/extensions.json
 .history
+/chatapp/room/migrations/0001_initial.py
 /chatapp/room/migrations/0002_message.py
